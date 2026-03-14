@@ -30,7 +30,8 @@ shiny::runApp()
 ```
 
 ## Deployed App[
-(https://luisalonso9-r-shiny-app-healthy-diet-cost.share.connect.posit.cloud)(https://connect.posit.cloud/luisalonso9)
+https://luisalonso9-r-shiny-app-healthy-diet-cost.share.connect.posit.cloud
+https://connect.posit.cloud/luisalonso9
 
 ## Data Source
 Data from the World Bank on the cost of a healthy diet across countries, measured in PPP USD per day.

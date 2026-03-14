@@ -29,7 +29,7 @@ cd R-Shiny-App-Healthy-Diet-Cost
 shiny::runApp()
 ```
 
-## Deployed App[
+## Deployed App
 https://luisalonso9-r-shiny-app-healthy-diet-cost.share.connect.posit.cloud
 
 https://connect.posit.cloud/luisalonso9
